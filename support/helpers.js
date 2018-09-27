@@ -1,6 +1,6 @@
 
 
-   const baseUrl = "https://jsonplaceholder.typicode.com/";
+   const baseUrl = "https://jsonplaceholder.typicode.com";
 
 
    module.exports = {
